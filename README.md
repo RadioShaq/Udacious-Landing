@@ -28,13 +28,11 @@ To use or view the landing page:
 
 This project uses the following technologies:
 
-HTML5: For structuring the content.
+*HTML5*: For structuring the content.
 
-CSS: For styling and responsive layout.
+*CSS*: For styling and responsive layout.
 
-JavaScript: For dynamic navigation, active state management, and smooth scrolling.
-
-Google Fonts: For custom typography.
+*J*avaScript*: For dynamic navigation, active state management, and smooth scrolling.
 
 ### *Contributions*
 
