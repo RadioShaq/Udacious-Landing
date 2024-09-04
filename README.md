@@ -37,15 +37,5 @@ JavaScript: For dynamic navigation, active state management, and smooth scrollin
 
 Google Fonts: For custom typography.
 
-File Structure
-
-bash
-
-Copy code
-├── index.html           # Main HTML file
-├── style.css            # Main CSS file
-├── script.js            # JavaScript for dynamic behavior
-├── images/              # Directory for images used in the project
-└── README.md            # Project documentation (this file)
 Contributions
 Feel free to fork the repository and submit pull requests if you'd like to contribute to this project.
