@@ -22,7 +22,6 @@ To use or view the landing page:
 ### *Clone the Repository*
 
 - bash 
-- Copy code
 - git clone https://github.com/RadioShaq/Udacious-Landing
 
 ### *Dependencies*
