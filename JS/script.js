@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Scroll to top button
     const scrollTopBtn = document.createElement('button');
-    scrollTopBtn.innerText = '⬆';
+    scrollTopBtn.innerText = 'Top';
     scrollTopBtn.classList.add('scroll-to-top');
     document.body.appendChild(scrollTopBtn);
 
