@@ -36,5 +36,6 @@ JavaScript: For dynamic navigation, active state management, and smooth scrollin
 
 Google Fonts: For custom typography.
 
-Contributions
+### *Contributions*
+
 Feel free to fork the repository and submit pull requests if you'd like to contribute to this project.
