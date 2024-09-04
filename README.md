@@ -32,7 +32,7 @@ This project uses the following technologies:
 
 *CSS*: For styling and responsive layout.
 
-*J*avaScript*: For dynamic navigation, active state management, and smooth scrolling.
+*JavaScript*: For dynamic navigation, active state management, and smooth scrolling.
 
 ### *Contributions*
 
